@@ -79,7 +79,7 @@ Just double-click it, or right-click → Open with Live Server if using VS Code.
 
 ## 📸 Preview
 
-![SkyCast Screenshot](assets/images/clear.jpg)
+[![SkyCast Screenshot](assets/images/clear.jpg)](https://www.loom.com/share/7e2389b4dcd5478f8ff81b130ee2eb68?sid=b49566db-4a47-4204-80b4-7443b71fc40f)
 
 ---
 ## 🌤️ SkyCast Previews
